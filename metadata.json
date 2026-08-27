@@ -1,0 +1,6 @@
+{
+  "name": "AI Logo Remover",
+  "description": "Smartly remove logos, watermarks, and unwanted text from your images using AI-powered inpainting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
